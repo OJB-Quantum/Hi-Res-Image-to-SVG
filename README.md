@@ -1,5 +1,5 @@
 # Hi-Res-Image-to-SVG
-A tool that runs in the browser using Colab and a Graphics Processing Unit (GPU) to identify and convert high-resolution images into Scalable Vector Graphics (SVG) outputs. Control knobs are included for easy parameter adjustment.
+A tool that runs in the browser using Colab and a Graphics Processing Unit (GPU) to identify and convert high-resolution images into Scalable Vector Graphics (SVG) outputs. Control knobs are included for easy parameter adjustment. The code is open source, written by Onri Jay Benally in 2026.
 
 ---
 
