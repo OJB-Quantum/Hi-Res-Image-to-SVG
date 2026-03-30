@@ -17,7 +17,7 @@ To preserve photographic fidelity while providing an SVG container, this tool em
 
 ## Acronyms and Symbols
 
-| Term / Symbol | Definition |
+| Term/ Symbol | Definition |
 | :--- | :--- |
 | **BMP** | Bitmap Image File |
 | **CUDA** | Compute Unified Device Architecture |
