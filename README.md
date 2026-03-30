@@ -68,7 +68,7 @@ The script features an upfront parameter block for easy customization. You can a
 
 ## Environment Setup and Dependencies
 
-This project relies on `uv` for extremely fast package resolution and installation within the Colab environment. Ensure your Colab runtime is set to utilize a T4, L4, or A100 GPU before execution.
+This project relies on `uv` for extremely fast package resolution and installation within the Colab environment. Ensure your Colab runtime is set to utilize a T4, L4, G4, or A100 GPU before execution.
 
 ```bash
 # Bootstrap uv and install Python dependencies into the system environment
